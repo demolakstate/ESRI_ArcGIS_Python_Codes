@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------------
 # Name:        module1
 # Purpose:
-# The scripts takes in ParcelOrion as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
+# The scripts takes in ParcelORION as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
 # and "ACRES" and supplied from input
-# And returns a new feature class called ParcelOrion_new
+# And returns a new feature class called Parcels_ORION_New
 
 # Sript Name: Ag Questionnaire Data, stored in 
 
