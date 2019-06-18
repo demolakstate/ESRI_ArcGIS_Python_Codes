@@ -9,6 +9,12 @@
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 # Import system modules
+
+# The scripts takes in ParcelOrion as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
+# and "ACRES" and supplied from input
+# And returns a new feature class called ParcelOrion_new
+
+#
 import os
 import sys
 import arcpy
