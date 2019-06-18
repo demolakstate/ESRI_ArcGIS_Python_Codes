@@ -1,6 +1,8 @@
 #-------------------------------------------------------------------------------
 # Name:        module2
 # Purpose:
+# This scripts takes in a Map Document (.mxd) with enabled data driven page, and creates a PDF file from the data
+# Output pdf is stored in
 #
 # Author:      demolakstate
 #
