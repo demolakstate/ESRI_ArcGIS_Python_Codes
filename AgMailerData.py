@@ -3,7 +3,7 @@
 # Purpose:
 # The scripts takes in ParcelORION as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
 # and "ACRES" and supplied from input
-# And returns a new feature class called Parcels_ORION_New
+# And returns a new feature class called Parcels_ORION_New in path shown on completed dialog box.
 
 # Sript Name: Ag Questionnaire Data, stored in 
 
