@@ -1,6 +1,13 @@
 #-------------------------------------------------------------------------------
 # Name:        module1
 # Purpose:
+# The scripts takes in ParcelOrion as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
+# and "ACRES" and supplied from input
+# And returns a new feature class called ParcelOrion_new
+
+# Sript Name: Ag Questionnaire Data, stored in 
+
+# "H:\Python Scripts\-----  KM Appraiser Data Tools -----.tbx\Aguse Tools\Ag Questionnaire Data" 
 #
 # Author:      demolakstate
 #
@@ -10,13 +17,6 @@
 #-------------------------------------------------------------------------------
 # Import system modules
 
-# The scripts takes in ParcelOrion as input and strips down to those ("PropTypeCo" = 'A' or "PropTypeCo" = 'F') 
-# and "ACRES" and supplied from input
-# And returns a new feature class called ParcelOrion_new
-
-# Sript Name: Ag Questionnaire Data, stored in 
-
-# "H:\Python Scripts\-----  KM Appraiser Data Tools -----.tbx\Aguse Tools\Ag Questionnaire Data" 
 import os
 import sys
 import arcpy
